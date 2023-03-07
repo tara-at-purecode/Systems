@@ -1,9 +1,12 @@
 {
     "component-Lib": "Mui",
-    "colors":{"primary":""},
+    "colors":{
+        "primary":"blue",
+        "secondary":"purple"
+    },
     "styles":{
         "rounded":{
-            "rounded-corners": "2rem"
+            "rounded-corners": "1rem"
 
         },
         "border":{
@@ -11,9 +14,5 @@
                 "border-width": "2px"
             }
         }
-        
-
     }
-
-
 }
